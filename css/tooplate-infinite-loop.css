@@ -146,9 +146,9 @@ blockquote {
 
 #infinite {
 	background-color: #222;
-  background-image: url(../img/infinite-loop-01.jpg);
+  background-image: url(../img/collage.jpg);
   background-repeat: no-repeat;
-  height: 100vh;
+  height: 60vh;
   min-height: 375px;
   position: relative;
 }
