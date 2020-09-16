@@ -27,6 +27,30 @@ a:focus {
   color: #D40;
 }
 
+.button {
+  background-color: #3366CC;
+  border: none;
+  color: #fff;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Proxima Bold';
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.accent {
+  font-family: 'Proxima Bold';
+  line-height: 14px;
+  color: white;
+}
+
+.round {
+  border-radius:16px
+}
+
 a:focus {
   outline: none;
 }
