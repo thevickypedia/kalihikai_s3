@@ -12,3 +12,9 @@
     left: 0%;
     background: rgba(0, 0, 0, .6);
 }
+img:hover {
+    width: 610px;
+    height: 650px;
+    cursor: pointer;
+    overflow: hidden;
+}
